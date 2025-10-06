@@ -31,7 +31,8 @@ The dashboard helps **job seekers, recruiters, and organizations** understand wh
 ---
 
 ## 🖼 Dashboard Preview  
-![Dashboard Screenshot]
+![Dashboard Screenshot] <img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/aabd2251-876c-482b-947e-d419ff89caae" />
+
 
 ---
 
